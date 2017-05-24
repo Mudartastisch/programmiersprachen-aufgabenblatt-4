@@ -1,0 +1,4 @@
+C:/Users/Mudar/Documents/programmiersprachen-aufgabenblatt-4/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mudar/Documents/programmiersprachen-aufgabenblatt-4/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Mudar/Documents/programmiersprachen-aufgabenblatt-4/build/source/CMakeFiles/tests.dir
+C:/Users/Mudar/Documents/programmiersprachen-aufgabenblatt-4/build/source/CMakeFiles/buw_list.dir

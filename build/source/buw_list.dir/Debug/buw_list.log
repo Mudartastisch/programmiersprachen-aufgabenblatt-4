@@ -1,0 +1,17 @@
+﻿  Building Custom Rule C:/Users/Mudar/Documents/programmiersprachen-aufgabenblatt-4/source/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Mudar/Documents/programmiersprachen-aufgabenblatt-4/build/source/CMakeFiles/generate.stamp is up-to-date.
+  buw_list.cpp
+C:\Users\Mudar\Documents\programmiersprachen-aufgabenblatt-4\source\buw_list.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mudar\documents\programmiersprachen-aufgabenblatt-4\source\buw_list.hpp(21): warning C4099: 'List<T>': type name first seen using 'struct' now seen using 'class'
+  c:\users\mudar\documents\programmiersprachen-aufgabenblatt-4\source\buw_list.hpp(21): note: see declaration of 'List<T>'
+  c:\users\mudar\documents\programmiersprachen-aufgabenblatt-4\source\buw_list.hpp(25): note: see reference to class template instantiation 'ListIterator<T>' being compiled
+c:\users\mudar\documents\programmiersprachen-aufgabenblatt-4\source\buw_list.hpp(29): warning C4099: 'List<T>': type name first seen using 'struct' now seen using 'class'
+  c:\users\mudar\documents\programmiersprachen-aufgabenblatt-4\source\buw_list.hpp(21): note: see declaration of 'List<T>'
+  c:\users\mudar\documents\programmiersprachen-aufgabenblatt-4\source\buw_list.hpp(34): note: see reference to class template instantiation 'ListConstIterator<T>' being compiled
+c:\users\mudar\documents\programmiersprachen-aufgabenblatt-4\source\buw_list.hpp(53): warning C4099: 'List': type name first seen using 'struct' now seen using 'class'
+  c:\users\mudar\documents\programmiersprachen-aufgabenblatt-4\source\buw_list.hpp(6): note: see declaration of 'List'
+c:\users\mudar\documents\programmiersprachen-aufgabenblatt-4\source\buw_list.hpp(46): warning C4099: 'ListIterator<T>': type name first seen using 'struct' now seen using 'class'
+  c:\users\mudar\documents\programmiersprachen-aufgabenblatt-4\source\buw_list.hpp(53): note: see reference to class template instantiation 'List<T>' being compiled
+c:\users\mudar\documents\programmiersprachen-aufgabenblatt-4\source\buw_list.hpp(47): warning C4099: 'ListConstIterator<T>': type name first seen using 'struct' now seen using 'class'
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Mudar\Documents\programmiersprachen-aufgabenblatt-4\build\source\Debug\buw_list.exe : fatal error LNK1120: 1 unresolved externals

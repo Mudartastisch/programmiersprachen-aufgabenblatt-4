@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Mudar/Documents/programmiersprachen-aufgabenblatt-4/source/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Mudar/Documents/programmiersprachen-aufgabenblatt-4/build/source/CMakeFiles/generate.stamp is up-to-date.
+  tests.cpp
+  tests.vcxproj -> C:\Users\Mudar\Documents\programmiersprachen-aufgabenblatt-4\build\source\Debug\tests.exe
